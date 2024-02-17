@@ -26,12 +26,12 @@
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📊 My GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Veolinan&show_icons=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kibeert&show_icons=true" alt="GitHub Stats" />
   </div>
 
   <div style="flex: 50%; padding: 10px;">
     <h2>📈 Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veolinan&theme=blue-green" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibeert&theme=blue-green" alt="Most Used Languages" />
   </div>
 
 </div>
