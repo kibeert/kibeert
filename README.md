@@ -33,5 +33,7 @@
     <h2>📈 Most Used Languages</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibeert&theme=blue-green" alt="Most Used Languages" />
   </div>
-
+<div style="flex: 50%; padding: 10px;">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 </div>
