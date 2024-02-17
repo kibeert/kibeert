@@ -6,6 +6,9 @@
 - 🤔 I’m a fullstack developer
 - 💬 Feel free to reach out
 
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Your GitHub Activity Chart](https://activity-graph.herokuapp.com/graph?username=kibeert&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 
