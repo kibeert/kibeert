@@ -7,4 +7,5 @@
 - 💬 Feel free to reach out
 
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?kibeert=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kibeert&show_icons=true&theme=radical)
+
