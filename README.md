@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently learning and  working on django
+- 🔭 I’m currently learning and  working on django and data science
 - 🤔 I’m a fullstack developer
 - 💬 Feel free to reach out
 
