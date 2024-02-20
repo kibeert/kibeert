@@ -33,5 +33,10 @@
     <h2>📈 Most Used Languages</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kibeert&theme=blue-green" alt="Most Used Languages" />
   </div>
+  <div align="center">
+  <a href="https://github.com/Titus210">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kibeert&theme=slateorange" />
+  </a>
+</div>
 
 </div>
