@@ -24,7 +24,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g3sm6aj44xd2liug5ouxpm2i54&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <div style="display: flex;">
 
-  <div style="flex: 50%; padding: 10px;">
+  <div align = "center" style="flex: 50%; padding: 10px;">
     <h2>📊 My GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=kibeert&show_icons=true" alt="GitHub Stats" />
   </div>
